@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>Version 1.7</h1>
-      <h1>Vite + React + Nishant + Shinde</h1>
+      <h1>Version 1.8</h1>
+      <h1>Hellooooo All</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
